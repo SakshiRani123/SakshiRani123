@@ -202,8 +202,6 @@ A secure platform with voter authentication, vote casting, result management, an
                     ↓
         📄 Generative AI & RAG Systems
                     ↓
-        ☁️ Cloud Computing
-                    ↓
         💻 Software Development
 ```
 
