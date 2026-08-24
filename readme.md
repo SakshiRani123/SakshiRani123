@@ -33,10 +33,8 @@ class SakshiRani:
         self.education = "B.Tech in Computer Science & Engineering"
         self.interests = [
             "Artificial Intelligence",
-            "Machine Learning",
             "Software Development",
             "Web Development",
-            "Cloud Computing"
         ]
 
         self.current_focus = [
@@ -140,19 +138,6 @@ A secure platform with voter authentication, vote casting, result management, an
 `HTML` `CSS` `JavaScript` `Database`
 
 </td>
-
-<td width="50%">
-
-### ☁️ Cloud Engineering Experience
-
-Hands-on experience exploring cloud deployment, networking, storage, IAM, and cloud architecture concepts.
-
-**⚙️ Focus**
-
-`Google Cloud` `Compute` `Storage` `IAM`
-
-</td>
-
 </tr>
 </table>
 
